@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+const MobileNav = () => {
   return (
     <div>
-      home page
+      mobile
     </div>
   )
 }
 
-export default Home
+export default MobileNav
